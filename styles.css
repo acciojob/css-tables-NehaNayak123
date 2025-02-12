@@ -1,8 +1,13 @@
 /*  your css code here. If applicable */
 th, td{
 	border: 1px solid gray;
-	border-radius:10px;
+	border-radius:5px;
 	padding:5px;
+	
+}
+td{
+	border-radius:5px;
+	font-size:12px
 }
 .gray{
 	background-color:lightgray;
