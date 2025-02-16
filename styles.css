@@ -1,14 +1,15 @@
 /*  your css code here. If applicable */
 th, td{
-	border: 1px solid gray;
+	background-color:#ffffff;
+	border: 1px solid #ccc;
 	border-radius:5px;
-	padding:5px;
+	padding:0.5rem;
 	
 }
 td{
-	border-radius:5px;
+	border-radius:8px;
 	font-size:12px
 }
 .gray{
-	background-color:lightgray;
+	background-color:#f2f2f2;
 }
